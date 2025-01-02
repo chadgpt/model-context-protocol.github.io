@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model Context Protocol Specification – 规范</title>
+    <link>https://model-context-protocol.github.io/specification/</link>
+    <description>Recent content in 规范 on Model Context Protocol Specification</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://model-context-protocol.github.io/specification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
